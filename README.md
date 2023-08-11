@@ -21,10 +21,16 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/a3bbfa7c-da3f-4203-9c89-0a9247953570/project/96149c72-9808-4174-8355-4b0fee0d296b.svg)](https://wakatime.com/badge/user/a3bbfa7c-da3f-4203-9c89-0a9247953570/project/96149c72-9808-4174-8355-4b0fee0d296b)
+<p align="center">
+  <a href="https://wakatime.com/badge/user/a3bbfa7c-da3f-4203-9c89-0a9247953570/project/96149c72-9808-4174-8355-4b0fee0d296b">
+    <img src="https://wakatime.com/badge/user/a3bbfa7c-da3f-4203-9c89-0a9247953570/project/96149c72-9808-4174-8355-4b0fee0d296b.svg" alt="wakatime">
+  </a>
+</p>
+
 <p align="center">
   <img src="https://wakatime.com/share/@17239/2d37f8c7-18dd-4e81-9f79-fdc78a1370c9.svg" width="400">
 </p>
+
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
