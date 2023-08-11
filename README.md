@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![17239w's GitHub stats](https://github-readme-stats.vercel.app/api?username=17239w&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![17239w's GitHub stats](https://github-readme-stats.vercel.app/api?username=17239w&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## ✨ About myself
