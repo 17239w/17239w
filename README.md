@@ -15,6 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About myself
+## ✨ About myself
 
-This is 17239w, a student at China University of Geosciences, Wuhan, major in Computer science and technology.
+This is 17239w, a student majoring in Computer science and technology at China University of Geosciences, Wuhan.
+
+## 🌱 What did I know
+
+### Currently majoring in:
+
+- Golang
+- Java
+
+### Not very major, but at least know a lot:
+
+- Python
+- C++
+- HTML&CSS
+- JavaScript
+- C#
+
+## 📫 How to reach me:
+
+- Email(Personal):17239w@gmail.com
+- or:1517009589@qq.com
