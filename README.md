@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![17239w's GitHub stats](https://github-readme-stats.vercel.app/api?username=17239w&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![17239w's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=17239)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=17239)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17239w&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
