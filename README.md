@@ -15,11 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![17239w's GitHub stats](https://github-readme-stats.vercel.app/api?username=17239w&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=17239w&theme=dracula&show_icons=true" alt="17239w's GitHub stats">
+  </a>
+</p>
 
-![WakaTime Stats](https://wakatime.com/share/@17239/2d37f8c7-18dd-4e81-9f79-fdc78a1370c9.svg)
+<p align="center">
+  <img src="https://wakatime.com/share/@17239/2d37f8c7-18dd-4e81-9f79-fdc78a1370c9.svg" width="400">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17239w&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17239w&layout=compact" alt="Top Langs">
+  </a>
+</p>
+
 
 ## ✨ About myself
 
