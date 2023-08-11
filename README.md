@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [![17239w's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=17239 )](https://github.com/anuraghazra/github-readme-stats)
 
+<figure><embed src="https://wakatime.com/share/@17239/cfac1290-14bf-43ba-a5d5-36d8659ecc5f.svg"></embed></figure>
+
 ## ✨ About myself
 
 This is 17239w, a student majoring in Computer science and technology at China University of Geosciences, Wuhan.
