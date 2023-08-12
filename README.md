@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+    over the Last 7 Days
+</p>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=17239&layout=compact" alt="17239w's wakatime stats">
   </a>
