@@ -17,13 +17,19 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=17239w&theme=dracula&show_icons=true" alt="17239w's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=17239w&theme=dracula&show_icons=true" alt="17239w's GitHub stats" width="500">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=17239&layout=compact" alt="17239w's wakatime stats">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17239w&layout=compact&langs_count=10" alt="Top Langs" width="600" height="200" >
   </a>
 </p>
 
