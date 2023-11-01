@@ -49,10 +49,11 @@ This is 17239w, a student majoring in Computer science and technology at China U
 ### Not very major, but at least know a lot:
 
 - Python
+- Java
+- C#
 - C++
 - HTML&CSS
 - JavaScript
-- C#
 
 ## 📫 How to reach me:
 
