@@ -45,7 +45,6 @@ This is 17239w, a student majoring in Computer science and technology at China U
 ### Currently majoring in:
 
 - Golang
-- Java
 
 ### Not very major, but at least know a lot:
 
