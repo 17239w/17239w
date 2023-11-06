@@ -30,12 +30,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17239w&layout=compact&langs_count=10" alt="Top Langs" width="600" height="200" >
-  </a>
-</p>
-
 ## ✨ About myself
 
 This is 17239w, a student majoring in Computer science and technology at China University of Geosciences, Wuhan.
